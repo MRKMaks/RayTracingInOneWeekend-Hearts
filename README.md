@@ -29,3 +29,5 @@ The engine will then dynamically calculate the scene using all your CPU threads 
 ## 📜 Credits
 - **Base Arc**: Based on the *Ray Tracing in One Weekend* book by Peter Shirley.
 - **Image Saving**: Powered by the fantastic single-header library `stb_image_write.h`.
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7eec57ec-1181-4efd-a22a-f7783599aab5" />
