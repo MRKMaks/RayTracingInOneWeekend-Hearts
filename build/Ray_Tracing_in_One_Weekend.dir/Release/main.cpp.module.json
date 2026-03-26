@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Ray_Tracing_in_One_Weekend.dir\\Release\\main.obj",
+            "outputs": [
+                "Ray_Tracing_in_One_Weekend.dir\\Release\\"
+            ],
+            "requires": []
+        }
+    ]
+}

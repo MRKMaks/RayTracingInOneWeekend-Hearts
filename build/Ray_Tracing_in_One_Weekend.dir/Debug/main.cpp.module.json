@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Ray_Tracing_in_One_Weekend.dir\\Debug\\main.obj",
+            "outputs": [
+                "C:\\PROGRAM_C\\Ray-Tracing-in-One-Weekend\\build\\Ray_Tracing_in_One_Weekend.dir\\Debug\\vc143.pdb",
+                "Ray_Tracing_in_One_Weekend.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

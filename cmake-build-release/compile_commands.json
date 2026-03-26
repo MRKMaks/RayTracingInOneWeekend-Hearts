@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/cmake-build-release",
+  "command": "C:\\Users\\march\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -IC:/PROGRAM_C/RayTracingInOneWeekend-Hearts/include  -O3 -O3 -DNDEBUG -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\RayTracer.dir\\main.cpp.obj -c C:\\PROGRAM_C\\RayTracingInOneWeekend-Hearts\\main.cpp",
+  "file": "C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/main.cpp",
+  "output": "C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/cmake-build-release/CMakeFiles/RayTracer.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/cmake-build-release",
+  "command": "C:\\Users\\march\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe  -O3 -O3 -DNDEBUG -std=gnu++23 -fdiagnostics-color=always -fopenmp -o CMakeFiles\\RayTracingInOneWeekend-Hearts.dir\\main.cpp.obj -c C:\\PROGRAM_C\\RayTracingInOneWeekend-Hearts\\main.cpp",
+  "file": "C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/main.cpp",
+  "output": "C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/cmake-build-release/CMakeFiles/RayTracingInOneWeekend-Hearts.dir/main.cpp.obj"
+}
+]

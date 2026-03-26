@@ -1,0 +1,7 @@
+# ninja log v6
+4	3234	7962410950369632	CMakeFiles/Ray_Tracing_in_One_Weekend.dir/main.cpp.obj	6121434781ea0983
+4	291	7962411109832256	Ray_Tracing_in_One_Weekend.exe	eb9a66037eb1ce7b
+2	111	7962412282839438	build.ninja	45e4affa499a326a
+2	111	7962412282804344	C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/cmake-build-release/cmake_install.cmake	45e4affa499a326a
+2	3386	7962412293550373	CMakeFiles/RayTracingInOneWeekend-Hearts.dir/main.cpp.obj	4c2869e8be00140e
+3388	3651	7962412327397170	RayTracingInOneWeekend-Hearts.exe	213fa885d4a50106

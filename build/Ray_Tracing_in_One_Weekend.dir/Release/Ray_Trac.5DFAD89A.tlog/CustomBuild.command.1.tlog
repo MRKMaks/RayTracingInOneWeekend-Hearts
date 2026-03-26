@@ -1,0 +1,10 @@
+^C:\PROGRAM_C\RAY-TRACING-IN-ONE-WEEKEND\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/PROGRAM_C/Ray-Tracing-in-One-Weekend -BC:/PROGRAM_C/Ray-Tracing-in-One-Weekend/build --check-stamp-file C:/PROGRAM_C/Ray-Tracing-in-One-Weekend/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
