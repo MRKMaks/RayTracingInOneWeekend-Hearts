@@ -1,4 +1,0 @@
-C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/cmake-build-release/CMakeFiles/RayTracer.dir
-C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/cmake-build-release/CMakeFiles/RayTracingInOneWeekend-Hearts.dir
-C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/PROGRAM_C/RayTracingInOneWeekend-Hearts/cmake-build-release/CMakeFiles/rebuild_cache.dir
